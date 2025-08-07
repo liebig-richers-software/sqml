@@ -46,16 +46,13 @@ SOFTWARE.
 
    <requires>
       <import plugin="com.google.inject" version="3.0.0" match="greaterOrEqual"/>
-      <import plugin="com.softicar.sqml.shared" version="1.0.0" match="greaterOrEqual"/>
       <import plugin="org.eclipse.core.runtime" version="3.9.0" match="greaterOrEqual"/>
       <import plugin="org.eclipse.emf.ecore"/>
       <import plugin="org.eclipse.emf.ecore.xcore.lib"/>
       <import plugin="org.eclipse.xtext" version="2.4.2" match="greaterOrEqual"/>
       <import plugin="org.eclipse.xtext.xbase.lib"/>
       <import plugin="org.eclipse.xtext.testing"/>
-      <import plugin="org.eclipse.xtext.junit4"/>
       <import plugin="org.junit"/>
-      <import plugin="org.hamcrest.core"/>
       <import plugin="org.antlr.runtime"/>
       <import plugin="org.eclipse.compare"/>
       <import plugin="org.eclipse.jdt.core" version="3.9.0" match="greaterOrEqual"/>
