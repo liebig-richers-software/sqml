@@ -2,7 +2,7 @@
 <feature
       id="com.softicar.sqml"
       label="SQML"
-      version="3.1.1"
+      version="3.2.0"
       provider-name="SoftiCAR"
       os="linux,macosx,win32"
       nl="en_US">
@@ -40,8 +40,8 @@ SOFTWARE.
    </license>
 
    <url>
-      <update url="https://softicar.github.io/sqml/com.softicar.sqml.site/"/>
-      <discovery label="SQML Eclipse Plugin" url="https://github.com/softicar/sqml"/>
+      <update url="https://liebig-richers-software.github.io/sqml/com.softicar.sqml.site/"/>
+      <discovery label="SQML Eclipse Plugin" url="https://github.com/liebig-richers-software/sqml"/>
    </url>
 
    <requires>
@@ -81,44 +81,26 @@ SOFTWARE.
 
    <plugin
          id="com.softicar.sqml.generator"
-         download-size="0"
-         install-size="0"
-         version="3.1.1"
-         unpack="false"/>
+         version="3.2.0"/>
 
    <plugin
          id="com.softicar.sqml.generator.sqml"
-         download-size="0"
-         install-size="0"
-         version="3.1.1"
-         unpack="false"/>
+         version="3.2.0"/>
 
    <plugin
          id="com.softicar.sqml.model"
-         download-size="0"
-         install-size="0"
-         version="3.1.1"
-         unpack="false"/>
+         version="3.2.0"/>
 
    <plugin
          id="com.softicar.sqml.shared"
-         download-size="0"
-         install-size="0"
-         version="3.1.1"
-         unpack="false"/>
+         version="3.2.0"/>
 
    <plugin
          id="com.softicar.sqml.ui"
-         download-size="0"
-         install-size="0"
-         version="3.1.1"
-         unpack="false"/>
+         version="3.2.0"/>
 
    <plugin
          id="com.softicar.sqml.main"
-         download-size="0"
-         install-size="0"
-         version="3.1.1"
-         unpack="false"/>
+         version="3.2.0"/>
 
 </feature>
